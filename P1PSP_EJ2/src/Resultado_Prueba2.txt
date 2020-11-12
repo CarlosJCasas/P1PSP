@@ -1,2 +1,0 @@
-A: 173 E: 272 I: 215 O: 76 U: 187 
-El total de las vocales es: 923
